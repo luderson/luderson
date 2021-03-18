@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @luderson
+- 👀 I’m interested in software development and computer infrastructure.
+- 🌱 I’m currently learning JavaScript and Flutter.
+- 💞️ I’m looking to collaborate on world peace.
+- 📫 How to reach me luderson@ anything.
